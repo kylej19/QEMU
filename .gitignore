@@ -1,0 +1,11 @@
+
+ISOS/*
+VM/*
+
+*.qcow2 
+*.iso
+
+# emacs
+*~ #backups
+\#*\# #autosaves
+.\#* #lockfiles
